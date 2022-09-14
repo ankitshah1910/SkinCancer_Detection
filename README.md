@@ -1,6 +1,6 @@
 # Project Name
 
-> Cancer Detection AI
+> Cancer Detection Upgrad
 
 ## Contact
 
